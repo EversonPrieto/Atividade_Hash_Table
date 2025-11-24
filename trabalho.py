@@ -1,3 +1,5 @@
+# Integrantes: Éverson e Victor Andrei
+
 class TabelaHash:
     def __init__(self, tamanho=10):
         self.tamanho = tamanho
